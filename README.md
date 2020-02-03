@@ -154,14 +154,4 @@ de desarrollo de este proyecto es de dos semanas. También, recuerda qué partes
 te tomaron más tiempo en el desarrollo del proyecto 1 y los aprendizajes que
 tuviste al desarrollar el proyecto 1.
 
-### 2) Prototipo de alta fidelidad
 
-Existen varias herramientas que puedes utilizar para crear diseñar el producto,
-en este caso el diseño viene en Figma y el prototipo en Marvel, así que puedes
-seguir usando esas herramientas. Sin embargo, eres libre de utilizar otras
-como Adobe XD e Invision. Para el prototipo intenta utilizar Marvel o Invision,
-ya que para el testing tendrás que usar una herramienta llamada
-[Maze](https://maze.design/) que funciona mejor con estas.
-
-Recuerda que el diseño que trabajes debe seguir los fundamentos de diseño visual
-como: contraste, alineación, jerarquía, entre otros.
